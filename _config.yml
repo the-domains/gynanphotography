@@ -1,0 +1,28 @@
+name: gynanphotography
+favicon: null
+layout_spectrum: 0.10121078277006745
+typography_spectrum: 0.3438212024047971
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.48727034754119813
+  lightness: 0.7779466323554516
+  saturation: 0.41232338082045317
+  rhythmicContrast: 0.5950572502333671
+purpose: []
