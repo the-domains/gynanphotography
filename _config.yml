@@ -1,28 +1,40 @@
-name: gynanphotography
-favicon: null
-layout_spectrum: 0.99902
-typography_spectrum: 0.50098
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#505050'
-    - '#777777'
-    - '#76c12d'
-    - '#2e2e2e'
-    - '#a5a5a5'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5197133
+  brandStrength: 0.5
+  lightness: 0.2688172
+  brandColors:
+    - '#555555'
+    - '#367C03'
+    - '#A5BB8C'
+    - '#3CB100'
+    - '#7AA2F4'
+  rhythmicContrast: 1
+typography_spectrum: 0.5179211
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+favicon: null
+name: gynanphotography
